@@ -1,3 +1,3 @@
 * Developer on Python
 * Telegram: @GT_projectMNGR_bot
-* YouTube: @_justcoder_
+* YouTube: [TAP](https://www.youtube.com/@_justcoder_)
