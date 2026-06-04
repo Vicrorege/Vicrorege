@@ -1,4 +1,6 @@
-* Developer on Python and robot enthusiast 
-* Telegram: @Tim_ant32
-* My site: https://timant32.ru
-* YouTube: [TAP](https://www.youtube.com/@_justcoder_)
+* React developer
+* python developer
+* telegram: @tim_ant32
+* mail: me@timant32.ru
+* webpage: https://timant32.ru
+* FounMC project owner/main developer
