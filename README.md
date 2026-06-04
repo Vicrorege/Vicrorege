@@ -1,6 +1,6 @@
 timant32
 
-![status](https://img.shields.io/badge/status-active-4c1?style=flat) ![os](https://img.shields.io/badge/os-arch_linux-1793d1?style=flat) ![founmc](https://img.shields.io/badge/founmc-owner-blue?style=flat)
+![status](https://img.shields.io/badge/status-active-4c1?style=flat)
 
 developer & devops.
 
